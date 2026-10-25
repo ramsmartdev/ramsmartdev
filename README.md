@@ -114,5 +114,3 @@ I enjoy turning complex engineering challenges into practical, reliable, and mai
   <img src="https://komarev.com/ghpvc/?username=ramsmartdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-[![](https://komarev.com/ghpvc/?username=ramsmartdev&icon=0&color=0)](https://visitcount.itsvg.in)
-
