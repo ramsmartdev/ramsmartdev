@@ -1,6 +1,6 @@
 # Hi, I'm Ram 👋
 
-### Software Engineer | Application Architect | AI & Systems Engineering
+### Product Manager | Senior Technical Manger | Application Architect | AI & Systems Engineering
 
 I build scalable applications, developer tools, and cloud-native products — from high-performance backend systems to cross-platform mobile experiences.
 
