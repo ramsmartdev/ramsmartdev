@@ -1,4 +1,4 @@
-# Hi, I'm Ram 👋
+# Hi, I'm Ram Mohan Annamalai 👋
 
 ### Product Manager | Senior Technical Manger | Application Architect | AI & Systems Engineering
 
